@@ -11,7 +11,7 @@ Idea is a flashcard services app to help oneself iterate over ones own personal 
 - increase read count for flashcard
 - read all available categories
 - assemble flashcard decks by category or by least read
-- create and read decks
+- create and read flashcard decks
 - able to send flashcard via by rest endpoint
 - email newsletter that is scheduled to send one flashcard daily
 
